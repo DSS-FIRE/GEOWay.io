@@ -1,1 +1,1 @@
-# TERRAWay.io
+# GEOWay.io
